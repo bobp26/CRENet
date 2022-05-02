@@ -1,2 +1,2 @@
 # CRENet
- Contextual Representation Enhancement Network
+ Contextual Enhancing Representation for semantic segmentation in remote sensing Images
